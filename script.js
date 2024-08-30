@@ -83,5 +83,5 @@ equalsButton.addEventListener('click', function() {
 });
 
 function printILY(){
-  document.getElementById("output-value").innerText="Kangen Woii 🫵";
+  document.getElementById("output-value").innerText="Love You Sayang Cinta aku 💕";
 }
